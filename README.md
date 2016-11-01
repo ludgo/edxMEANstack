@@ -1,3 +1,3 @@
 # edxMEANstack
 
-My solutions to edX MEAN stack course
+My solutions to edX course: Introduction to MongoDB using the MEAN Stack
